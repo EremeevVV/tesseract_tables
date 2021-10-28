@@ -1,3 +1,18 @@
+# My type
+*.csv
+*.vec
+*.pickle
+*.txt
+*.json
+!requirements.txt
+embeddings
+*.idea
+__pycache__
+
+# file to exclude
+X_*
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
