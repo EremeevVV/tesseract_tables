@@ -8,6 +8,8 @@
 embeddings
 *.idea
 __pycache__
+*.png
+*.pdf
 
 # file to exclude
 X_*
